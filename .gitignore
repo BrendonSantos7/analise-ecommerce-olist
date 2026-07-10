@@ -1,0 +1,14 @@
+# Dados brutos e limpos — muito grandes para o GitHub
+data/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# VS Code
+.vscode/
+
+# Power BI — vamos publicar prints no README
+*.pbix
