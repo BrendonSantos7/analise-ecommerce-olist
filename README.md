@@ -13,14 +13,14 @@ Base de dados pública da Olist com ~100k pedidos reais (2016-2018).
 Download: https://github.com/olist/work-at-olist-data
 
 ## Estrutura do Projeto
-projeto-olist/
-├── notebooks/
-│   ├── 01_exploracao.py     # Análise exploratória das 9 tabelas
-│   ├── 02_limpeza.py        # Tratamento e padronização dos dados
-│   └── 03_carga_sql.py      # ETL para SQL Server (esquema estrela)
-├── sql/
-│   └── analises_negocio.sql # Queries de negócio (CTE, Window Functions)
-└── README.md
+projeto-olist/<br><br>
+├── notebooks/<br>
+│   ├── 01_exploracao.py     # Análise exploratória das 9 tabelas<br>
+│   ├── 02_limpeza.py        # Tratamento e padronização dos dados<br>
+│   └── 03_carga_sql.py      # ETL para SQL Server (esquema estrela)<br><br>
+├── sql/<br>
+│   └── analises_negocio.sql # Queries de negócio (CTE, Window Functions)<br>
+└── README.md<br>
 
 ## Principais Insights
 - Faturamento total de R$ 15,8M em ~99k pedidos (2016-2018)
