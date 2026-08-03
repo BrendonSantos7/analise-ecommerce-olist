@@ -1,0 +1,16 @@
+{
+  "name": "Olist Dark Orange",
+  "dataColors": ["#f97316","#3b82f6","#22c55e","#ef4444","#8b5cf6","#f59e0b","#fb923c","#60a5fa"],
+  "background": "#0d0f1a",
+  "foreground": "#f1f5f9",
+  "tableAccent": "#f97316",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#13162a"}}}],
+        "border": [{"color": {"solid": {"color": "#252845"}}}],
+        "fontFamily": [{"fontFamily": "Segoe UI"}]
+      }
+    }
+  }
+}
