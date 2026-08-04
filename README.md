@@ -478,7 +478,7 @@ da ingestão até a visualização — usando dados reais de uma empresa brasile
 
 <br>
 
-<a href="https://linkedin.com/in/seu-perfil">
+<a href="https://www.linkedin.com/in/brendongomessantos/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
