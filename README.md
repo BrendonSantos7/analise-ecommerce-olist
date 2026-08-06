@@ -58,7 +58,15 @@ O projeto foi construído do zero como portfólio prático, cobrindo todo o cicl
   <li>Dados 100% reais de uma empresa brasileira, sem dados sintéticos</li>
 </ul>
 
+<h2>🔗 Acesse o Projeto</h2>
+
 <br>
+
+<p>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNzRhNzRlNDEtYTA5NS00MzYzLTlhNTktMWFhYjIyZDg4MGYyIiwidCI6ImFkOGRhY2IwLWU2OTgtNDJkZC04ODY2LWFkYWRkZTQ3MTEwZCJ9">
+    👉 Clique aqui para acessar o dashboard interativo no Power BI
+  </a>
+</p>
 
 ---
 
